@@ -1,0 +1,15 @@
+C:\Users\Mark\Desktop\codeclass\Greater than less than\bin\Debug\net6.0\Greater than less than.exe
+C:\Users\Mark\Desktop\codeclass\Greater than less than\bin\Debug\net6.0\Greater than less than.deps.json
+C:\Users\Mark\Desktop\codeclass\Greater than less than\bin\Debug\net6.0\Greater than less than.runtimeconfig.json
+C:\Users\Mark\Desktop\codeclass\Greater than less than\bin\Debug\net6.0\Greater than less than.dll
+C:\Users\Mark\Desktop\codeclass\Greater than less than\bin\Debug\net6.0\Greater than less than.pdb
+C:\Users\Mark\Desktop\codeclass\Greater than less than\obj\Debug\net6.0\Greater than less than.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\codeclass\Greater than less than\obj\Debug\net6.0\Greater than less than.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\Desktop\codeclass\Greater than less than\obj\Debug\net6.0\Greater than less than.AssemblyInfoInputs.cache
+C:\Users\Mark\Desktop\codeclass\Greater than less than\obj\Debug\net6.0\Greater than less than.AssemblyInfo.cs
+C:\Users\Mark\Desktop\codeclass\Greater than less than\obj\Debug\net6.0\Greater than less than.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\codeclass\Greater than less than\obj\Debug\net6.0\Greater than less than.dll
+C:\Users\Mark\Desktop\codeclass\Greater than less than\obj\Debug\net6.0\refint\Greater than less than.dll
+C:\Users\Mark\Desktop\codeclass\Greater than less than\obj\Debug\net6.0\Greater than less than.pdb
+C:\Users\Mark\Desktop\codeclass\Greater than less than\obj\Debug\net6.0\Greater than less than.genruntimeconfig.cache
+C:\Users\Mark\Desktop\codeclass\Greater than less than\obj\Debug\net6.0\ref\Greater than less than.dll
