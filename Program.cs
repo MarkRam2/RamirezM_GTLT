@@ -13,6 +13,7 @@ bool playing = true;
 
 while(playing == true)
 {
+playing = true;
 
 Console.WriteLine("Today we are going to see if one number is greater than or less then the other.");
 
