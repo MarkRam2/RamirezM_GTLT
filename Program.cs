@@ -16,7 +16,7 @@ while(playing == true)
 playing = true;
 
 Console.WriteLine("Today we are going to see if one number is greater than or less then the other.");
-
+validation = true;
 while(validation == true){
 Console.WriteLine("Please enter the first number");
 
