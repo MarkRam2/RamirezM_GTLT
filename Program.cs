@@ -1,7 +1,7 @@
 ﻿// mark ramirez
 // 10/18/2022
 // greater than less then
-// you give me two numbers and I tell you if they are greater than lees than or equal too
+// you give me two numbers and I tell you if they are greater than lees than or equal too each other
 
 
 Console.Clear();
