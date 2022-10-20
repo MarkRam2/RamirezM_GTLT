@@ -24,7 +24,7 @@ num1 = Console.ReadLine();
     bool NuM1 = Double.TryParse(num1, out idk);
     if(NuM1 == true ){
         validation = false;
-    }else if(NuM1 == false){
+    }else{
     }
 }
 
